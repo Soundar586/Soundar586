@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi 👋, I'm Soundar
 
-<!--
-**Soundar586/Soundar586** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Machine Learning Engineer
 
-Here are some ideas to get you started:
+🚀 Passionate about AI, ML, and Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on AI/ML Projects
+- 🌱 Learning Deep Learning & NLP
+- 💡 Interested in Computer Vision
+- 🏆 Hackathon Participant
+- 📫 Reach me: sekarsoundar1968@gmail.com
+
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN)
+[GitHub](YOUR_GITHUB)
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+Python • SQL • JavaScript
+
+### AI/ML
+TensorFlow • Keras • Scikit-learn • OpenCV
+
+### Web
+HTML • CSS • Django • React
+
+---
+
+## 📌 Featured Projects
+
+### 🍔 Food Calorie Estimation
+CNN-based calorie prediction system.
+
+### 👋 Hand Gesture Recognition
+Real-time gesture system using OpenCV & MediaPipe.
+
+### 📄 Resume Screening System
+NLP-based automated resume filtering.
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Soundar586&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soundar586&layout=compact&theme=tokyonight)
