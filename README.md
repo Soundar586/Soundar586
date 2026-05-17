@@ -44,9 +44,3 @@ Real-time gesture system using OpenCV & MediaPipe.
 NLP-based automated resume filtering.
 
 ---
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Soundar586&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soundar586&layout=compact&theme=tokyonight)
